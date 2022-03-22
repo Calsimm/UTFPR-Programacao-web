@@ -6,6 +6,8 @@
 
 #### Recriando o <https://www.spotify.com/br/account/overview/>
 
+#### Deploy <https://progweb-projeto1.herokuapp.com/>
+
 ##### Projeto feito por 
 
 ##### Maria Carolina Lopes Braulino 
